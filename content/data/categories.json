@@ -1,0 +1,11 @@
+[{
+        "id": "cv",
+        "title": "Computer Vision",
+        "slug": "computer-vision"
+    },
+    {
+        "id": "nlp",
+        "title": "Natural Language processing",
+        "slug": "narural-language-processing"
+    }
+]

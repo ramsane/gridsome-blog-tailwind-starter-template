@@ -1,0 +1,17 @@
+{
+  "name": "portfolio",
+  "private": true,
+  "scripts": {
+    "build": "gridsome build",
+    "develop": "gridsome develop",
+    "explore": "gridsome explore"
+  },
+  "dependencies": {
+    "@gridsome/vue-remark": "^0.1.10",
+    "gridsome": "^0.7.13",
+    "remark-toc": "^7.0.0"
+  },
+  "devDependencies": {
+    "gridsome-plugin-tailwindcss": "^2.2.43"
+  }
+}
